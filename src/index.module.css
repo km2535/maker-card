@@ -1,0 +1,6 @@
+@value makerLightGrey from './common/colors.css';
+*{
+  padding: 0;
+  margin: 0;
+}
+
